@@ -1,0 +1,14 @@
+C:\Users\murikumo\Documents\Visual Studio 2010\Projects\FractalViewer\FractalViewer\bin\Debug\FractalViewer.exe
+C:\Users\murikumo\Documents\Visual Studio 2010\Projects\FractalViewer\FractalViewer\bin\Debug\FractalViewer.pdb
+C:\Users\murikumo\Documents\Visual Studio 2010\Projects\FractalViewer\FractalViewer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\murikumo\Documents\Visual Studio 2010\Projects\FractalViewer\FractalViewer\obj\x86\Debug\FractalViewer.Properties.Resources.resources
+C:\Users\murikumo\Documents\Visual Studio 2010\Projects\FractalViewer\FractalViewer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\murikumo\Documents\Visual Studio 2010\Projects\FractalViewer\FractalViewer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\murikumo\Documents\Visual Studio 2010\Projects\FractalViewer\FractalViewer\obj\x86\Debug\FractalViewer.exe
+C:\Users\murikumo\Documents\Visual Studio 2010\Projects\FractalViewer\FractalViewer\obj\x86\Debug\FractalViewer.pdb
+C:\Users\murikumo\Documents\Visual Studio 2010\Projects\FractalViewer\FractalViewer\obj\x86\Debug\FractalViewer.MandelGUI.resources
+C:\Users\murikumo\Documents\Visual Studio 2010\Projects\FractalViewer\FractalViewer\obj\x86\Debug\FractalViewer.FractalPortal.resources
+C:\Users\murikumo\Documents\Visual Studio 2010\Projects\FractalViewer\FractalViewer\obj\x86\Debug\FractalViewer.SierpinskiGUI.resources
+C:\Users\murikumo\Documents\Visual Studio 2010\Projects\FractalViewer\FractalViewer\obj\x86\Debug\FractalViewer.IFSGUI.resources
+C:\Users\murikumo\Documents\Visual Studio 2010\Projects\FractalViewer\FractalViewer\obj\x86\Debug\FractalViewer.Common.DoubleBufferedPanel.resources
+C:\Users\murikumo\Documents\Visual Studio 2010\Projects\FractalViewer\FractalViewer\obj\x86\Debug\FractalViewer.GUI.resources

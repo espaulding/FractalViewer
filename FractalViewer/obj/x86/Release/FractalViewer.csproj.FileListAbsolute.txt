@@ -1,0 +1,78 @@
+C:\Users\murikumo\Documents\Visual Studio 2010\Projects\FractalViewer\FractalViewer\bin\Release\FractalViewer.exe
+C:\Users\murikumo\Documents\Visual Studio 2010\Projects\FractalViewer\FractalViewer\bin\Release\FractalViewer.pdb
+C:\Users\murikumo\Documents\Visual Studio 2010\Projects\FractalViewer\FractalViewer\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\murikumo\Documents\Visual Studio 2010\Projects\FractalViewer\FractalViewer\obj\x86\Release\FractalViewer.Common.DoubleBufferedPanel.resources
+C:\Users\murikumo\Documents\Visual Studio 2010\Projects\FractalViewer\FractalViewer\obj\x86\Release\FractalViewer.GUI.resources
+C:\Users\murikumo\Documents\Visual Studio 2010\Projects\FractalViewer\FractalViewer\obj\x86\Release\FractalViewer.IFSGUI.resources
+C:\Users\murikumo\Documents\Visual Studio 2010\Projects\FractalViewer\FractalViewer\obj\x86\Release\FractalViewer.MandelGUI.resources
+C:\Users\murikumo\Documents\Visual Studio 2010\Projects\FractalViewer\FractalViewer\obj\x86\Release\FractalViewer.FractalPortal.resources
+C:\Users\murikumo\Documents\Visual Studio 2010\Projects\FractalViewer\FractalViewer\obj\x86\Release\FractalViewer.Properties.Resources.resources
+C:\Users\murikumo\Documents\Visual Studio 2010\Projects\FractalViewer\FractalViewer\obj\x86\Release\FractalViewer.SierpinskiGUI.resources
+C:\Users\murikumo\Documents\Visual Studio 2010\Projects\FractalViewer\FractalViewer\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\murikumo\Documents\Visual Studio 2010\Projects\FractalViewer\FractalViewer\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\murikumo\Documents\Visual Studio 2010\Projects\FractalViewer\FractalViewer\obj\x86\Release\FractalViewer.exe
+C:\Users\murikumo\Documents\Visual Studio 2010\Projects\FractalViewer\FractalViewer\obj\x86\Release\FractalViewer.pdb
+C:\Users\murikumo\Documents\Visual Studio 2010\Projects\FractalViewer\FractalViewer\bin\Release\FractalViewer.exe.config
+C:\Users\murikumo\Documents\Visual Studio 2010\Projects\FractalViewer\FractalViewer\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\murikumo\Documents\Visual Studio 2010\Projects\FractalViewer\FractalViewer\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\murikumo\Documents\Visual Studio 2010\Projects\FractalViewer\FractalViewer\bin\Release\FractalViewer.exe.manifest
+C:\Users\murikumo\Documents\Visual Studio 2010\Projects\FractalViewer\FractalViewer\bin\Release\FractalViewer.application
+C:\Users\murikumo\Documents\Visual Studio 2010\Projects\FractalViewer\FractalViewer\obj\x86\Release\FractalViewer.exe.manifest
+C:\Users\murikumo\Documents\Visual Studio 2010\Projects\FractalViewer\FractalViewer\obj\x86\Release\FractalViewer.application
+C:\Users\saishin\Dropbox\Adv Prog\FractalViewer\bin\Release\FractalViewer.exe.config
+C:\Users\saishin\Dropbox\Adv Prog\FractalViewer\obj\x86\Release\FractalViewer.exe
+C:\Users\saishin\Dropbox\Adv Prog\FractalViewer\obj\x86\Release\FractalViewer.pdb
+C:\Users\saishin\Dropbox\Adv Prog\FractalViewer\bin\Release\FractalViewer.exe.manifest
+C:\Users\saishin\Dropbox\Adv Prog\FractalViewer\bin\Release\FractalViewer.application
+C:\Users\saishin\Dropbox\Adv Prog\FractalViewer\bin\Release\FractalViewer.exe
+C:\Users\saishin\Dropbox\Adv Prog\FractalViewer\bin\Release\FractalViewer.pdb
+C:\Users\saishin\Dropbox\Adv Prog\FractalViewer\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\saishin\Dropbox\Adv Prog\FractalViewer\obj\x86\Release\FractalViewer.Common.DoubleBufferedPanel.resources
+C:\Users\saishin\Dropbox\Adv Prog\FractalViewer\obj\x86\Release\FractalViewer.GUI.resources
+C:\Users\saishin\Dropbox\Adv Prog\FractalViewer\obj\x86\Release\FractalViewer.IFSGUI.resources
+C:\Users\saishin\Dropbox\Adv Prog\FractalViewer\obj\x86\Release\FractalViewer.MandelGUI.resources
+C:\Users\saishin\Dropbox\Adv Prog\FractalViewer\obj\x86\Release\FractalViewer.FractalPortal.resources
+C:\Users\saishin\Dropbox\Adv Prog\FractalViewer\obj\x86\Release\FractalViewer.Properties.Resources.resources
+C:\Users\saishin\Dropbox\Adv Prog\FractalViewer\obj\x86\Release\FractalViewer.SierpinskiGUI.resources
+C:\Users\saishin\Dropbox\Adv Prog\FractalViewer\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\saishin\Dropbox\Adv Prog\FractalViewer\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\saishin\Dropbox\Adv Prog\FractalViewer\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\saishin\Dropbox\Adv Prog\FractalViewer\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\saishin\Dropbox\Adv Prog\FractalViewer\obj\x86\Release\FractalViewer.exe.manifest
+C:\Users\saishin\Dropbox\Adv Prog\FractalViewer\obj\x86\Release\FractalViewer.application
+C:\Users\Eric\Desktop\School\Spring2012\Adv Prog\FractalViewer\bin\Release\FractalViewer.exe.config
+C:\Users\Eric\Desktop\School\Spring2012\Adv Prog\FractalViewer\obj\x86\Release\FractalViewer.exe
+C:\Users\Eric\Desktop\School\Spring2012\Adv Prog\FractalViewer\obj\x86\Release\FractalViewer.pdb
+C:\Users\Eric\Desktop\School\Spring2012\Adv Prog\FractalViewer\bin\Release\FractalViewer.exe.manifest
+C:\Users\Eric\Desktop\School\Spring2012\Adv Prog\FractalViewer\bin\Release\FractalViewer.application
+C:\Users\Eric\Desktop\School\Spring2012\Adv Prog\FractalViewer\bin\Release\FractalViewer.exe
+C:\Users\Eric\Desktop\School\Spring2012\Adv Prog\FractalViewer\bin\Release\FractalViewer.pdb
+C:\Users\Eric\Desktop\School\Spring2012\Adv Prog\FractalViewer\obj\x86\Release\FractalViewer.Common.DoubleBufferedPanel.resources
+C:\Users\Eric\Desktop\School\Spring2012\Adv Prog\FractalViewer\obj\x86\Release\FractalViewer.GUI.resources
+C:\Users\Eric\Desktop\School\Spring2012\Adv Prog\FractalViewer\obj\x86\Release\FractalViewer.IFSGUI.resources
+C:\Users\Eric\Desktop\School\Spring2012\Adv Prog\FractalViewer\obj\x86\Release\FractalViewer.MandelGUI.resources
+C:\Users\Eric\Desktop\School\Spring2012\Adv Prog\FractalViewer\obj\x86\Release\FractalViewer.FractalPortal.resources
+C:\Users\Eric\Desktop\School\Spring2012\Adv Prog\FractalViewer\obj\x86\Release\FractalViewer.Properties.Resources.resources
+C:\Users\Eric\Desktop\School\Spring2012\Adv Prog\FractalViewer\obj\x86\Release\FractalViewer.SierpinskiGUI.resources
+C:\Users\Eric\Desktop\School\Spring2012\Adv Prog\FractalViewer\obj\x86\Release\FractalViewer.csproj.GenerateResource.Cache
+C:\Users\Eric\Desktop\School\Spring2012\Adv Prog\FractalViewer\obj\x86\Release\FractalViewer.exe.manifest
+C:\Users\Eric\Desktop\School\Spring2012\Adv Prog\FractalViewer\obj\x86\Release\FractalViewer.application
+C:\Users\Eric\Desktop\School\Spring2012\Adv Prog\FractalViewer\obj\x86\Release\FractalViewer.csprojResolveAssemblyReference.cache
+C:\Users\Eric\Dropbox\GitHub\FractalViewer\FractalViewer\bin\Release\FractalViewer.exe.config
+C:\Users\Eric\Dropbox\GitHub\FractalViewer\FractalViewer\obj\x86\Release\FractalViewer.exe
+C:\Users\Eric\Dropbox\GitHub\FractalViewer\FractalViewer\obj\x86\Release\FractalViewer.pdb
+C:\Users\Eric\Dropbox\GitHub\FractalViewer\FractalViewer\bin\Release\FractalViewer.exe.manifest
+C:\Users\Eric\Dropbox\GitHub\FractalViewer\FractalViewer\bin\Release\FractalViewer.application
+C:\Users\Eric\Dropbox\GitHub\FractalViewer\FractalViewer\bin\Release\FractalViewer.exe
+C:\Users\Eric\Dropbox\GitHub\FractalViewer\FractalViewer\bin\Release\FractalViewer.pdb
+C:\Users\Eric\Dropbox\GitHub\FractalViewer\FractalViewer\obj\x86\Release\FractalViewer.csprojResolveAssemblyReference.cache
+C:\Users\Eric\Dropbox\GitHub\FractalViewer\FractalViewer\obj\x86\Release\FractalViewer.Common.DoubleBufferedPanel.resources
+C:\Users\Eric\Dropbox\GitHub\FractalViewer\FractalViewer\obj\x86\Release\FractalViewer.GUI.resources
+C:\Users\Eric\Dropbox\GitHub\FractalViewer\FractalViewer\obj\x86\Release\FractalViewer.IFSGUI.resources
+C:\Users\Eric\Dropbox\GitHub\FractalViewer\FractalViewer\obj\x86\Release\FractalViewer.MandelGUI.resources
+C:\Users\Eric\Dropbox\GitHub\FractalViewer\FractalViewer\obj\x86\Release\FractalViewer.FractalPortal.resources
+C:\Users\Eric\Dropbox\GitHub\FractalViewer\FractalViewer\obj\x86\Release\FractalViewer.Properties.Resources.resources
+C:\Users\Eric\Dropbox\GitHub\FractalViewer\FractalViewer\obj\x86\Release\FractalViewer.SierpinskiGUI.resources
+C:\Users\Eric\Dropbox\GitHub\FractalViewer\FractalViewer\obj\x86\Release\FractalViewer.csproj.GenerateResource.Cache
+C:\Users\Eric\Dropbox\GitHub\FractalViewer\FractalViewer\obj\x86\Release\FractalViewer.exe.manifest
+C:\Users\Eric\Dropbox\GitHub\FractalViewer\FractalViewer\obj\x86\Release\FractalViewer.application

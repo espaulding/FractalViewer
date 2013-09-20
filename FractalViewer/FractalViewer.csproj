@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{CE68327A-F6DA-4A31-A3E3-278D890E6DBC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>FractalViewer</RootNamespace>
+    <AssemblyName>FractalViewer</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\murikumo\Dropbox\Spring2012\CSCI 427 Adv Prog 2\publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <AutorunEnabled>true</AutorunEnabled>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>FractalViewer.Program</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>10B70E16990D5661B935CC134331D5805D946C0B</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>FractalViewer_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Common\Complex.cs" />
+    <Compile Include="Common\ComplexWindow.cs" />
+    <Compile Include="Common\DoubleBufferedPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="GUI\GUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\GUI.Designer.cs">
+      <DependentUpon>GUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Common\HF.cs" />
+    <Compile Include="Common\Point.cs" />
+    <Compile Include="Common\FormControlObserver.cs" />
+    <Compile Include="Common\Window.cs" />
+    <Compile Include="Exceptions\FernException.cs" />
+    <Compile Include="Exceptions\FractalException.cs" />
+    <Compile Include="Exceptions\MandelbrotException.cs" />
+    <Compile Include="Exceptions\SierpinskiException.cs" />
+    <Compile Include="GUI\FractalPortal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\FractalPortal.Designer.cs">
+      <DependentUpon>FractalPortal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FractalSpace\Dragon.cs" />
+    <Compile Include="FractalSpace\Fern.cs" />
+    <Compile Include="FractalSpace\FernPlant.cs" />
+    <Compile Include="FractalSpace\FractalEngine.cs" />
+    <Compile Include="FractalSpace\Fractal.cs" />
+    <Compile Include="FractalSpace\IFS.cs" />
+    <Compile Include="FractalSpace\Julia3.cs" />
+    <Compile Include="FractalSpace\MapleLeaf.cs" />
+    <Compile Include="FractalSpace\Spiral.cs" />
+    <Compile Include="FractalSpace\Tree.cs" />
+    <Compile Include="GUI\IFSGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\IFSGUI.Designer.cs">
+      <DependentUpon>IFSGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\MandelGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\MandelGUI.Designer.cs">
+      <DependentUpon>MandelGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FractalSpace\FractalFactory.cs" />
+    <Compile Include="FractalSpace\Julia.cs" />
+    <Compile Include="FractalSpace\Julia_SanMarco.cs" />
+    <Compile Include="FractalSpace\Mandelbrot.cs" />
+    <Compile Include="FractalSpace\Mandelbrot3.cs" />
+    <Compile Include="FractalSpace\Mandelbrot4.cs" />
+    <Compile Include="FractalSpace\Sierpinski.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="GUI\SierpinskiGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\SierpinskiGUI.Designer.cs">
+      <DependentUpon>SierpinskiGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WhiteboxScripts\TestMandelbrot.cs" />
+    <Compile Include="WhiteboxScripts\WhiteboxMaster.cs" />
+    <EmbeddedResource Include="Common\DoubleBufferedPanel.resx">
+      <DependentUpon>DoubleBufferedPanel.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\GUI.resx">
+      <DependentUpon>GUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\IFSGUI.resx">
+      <DependentUpon>IFSGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\MandelGUI.resx">
+      <DependentUpon>MandelGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\FractalPortal.resx">
+      <DependentUpon>FractalPortal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="GUI\SierpinskiGUI.resx">
+      <DependentUpon>SierpinskiGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="FractalViewer_TemporaryKey.pfx" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MandlebrotImage.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sierpinski.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mandlebrot Zoom.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fern.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
