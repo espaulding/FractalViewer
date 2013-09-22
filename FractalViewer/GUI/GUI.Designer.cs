@@ -51,7 +51,7 @@ namespace FractalViewer
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.fractalViewerPanel.AutoSize = true;
-            this.fractalViewerPanel.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.fractalViewerPanel.BackColor = System.Drawing.Color.LawnGreen;
             this.fractalViewerPanel.Cursor = System.Windows.Forms.Cursors.Cross;
             this.fractalViewerPanel.Location = new System.Drawing.Point(2, 27);
             this.fractalViewerPanel.MinimumSize = new System.Drawing.Size(500, 500);
