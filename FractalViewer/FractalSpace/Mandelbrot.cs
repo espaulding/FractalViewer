@@ -42,6 +42,7 @@ namespace FractalViewer.FractalSpace
             Complex spot = origin;
             double currentDist = 0;
 
+            //An+1 = An^2 + A0
             while ((currentDist <= escapeDist) && (++iterations <= detailLevel))
             {
                 spot = spot.power(2).add(origin);
